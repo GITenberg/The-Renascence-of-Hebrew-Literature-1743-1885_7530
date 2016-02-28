@@ -1,0 +1,31 @@
+_repo: The-Renascence-of-Hebrew-Literature-1743-1885_7530
+creator:
+  author:
+    agent_name: Slouschz, Nahum
+    alias: Slousch, Nahum
+    birthdate: 1872
+    deathdate: 1966
+    gutenberg_agent_id: '2507'
+    url: http://www.gutenberg.org/2009/agents/2507
+    wikipedia: http://en.wikipedia.org/wiki/Nahum_Slouschz
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Hebrew literature, Modern -- History and criticism'
+tableOfContents: In Italy. Moses Hayyim Luzzatto -- In Germany. The Meassefim -- In
+  Poland and Austria. The Galician school -- In Lithuania. Humanism in Russia -- The
+  romantic movement. Abraham Mapu -- The emancipation movement. The realists -- The
+  conflict with Rabbinism. Judah Leon Gordon -- Reformers and conservatists. The two
+  extremes -- The national progressive movement. Perez Smolenskin -- The contributors
+  to Ha-Shahar -- The novels of Smolenskin -- Contemporaneous literature -- Conclusion.
+title: The Renascence of Hebrew Literature (1743-1885)
+url: http://www.gutenberg.org/ebooks/7530
