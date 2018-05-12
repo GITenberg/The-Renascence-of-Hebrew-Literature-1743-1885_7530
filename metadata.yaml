@@ -1,4 +1,8 @@
 _repo: The-Renascence-of-Hebrew-Literature-1743-1885_7530
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Slouschz, Nahum
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2507
     wikipedia: http://en.wikipedia.org/wiki/Nahum_Slouschz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7530#The-Renascence-of-Hebrew-Literature-1743-1885
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
